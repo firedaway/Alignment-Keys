@@ -1,5 +1,5 @@
 # Alignment-Keys
-Not sure why roblox removed this in the first place.. One of the most useful features
+Not sure why roblox removed this in the first place.. One of the most useful features, especially for obby games
 
 ## Directions
 Option 1: Create a LocalScript in your Roblox Studio Explorer under StarterPlayer -> StarterPlayerScripts and paste the code from "source.lua" into the editor
